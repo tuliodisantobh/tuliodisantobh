@@ -1,6 +1,6 @@
 ## Olá 👋
 
-# Meu nome é Túlio Gonçalves 👨‍💻
+# Aqui é Túlio Gonçalves 👨‍💻
 
 🎓 Estudante de Engenharia de Software — PUC Minas  
 🧠 Curioso inveterado  
