@@ -28,8 +28,8 @@ Arquitetura de sistemas • Modelagem de domínio • IA aplicada • Engenharia
 
 ## 🤔 Curiosidade
 
-*Também sou escritor de romances. 
-*disanto é sobrenome perdido da família.
+- Também sou escritor de romances. 
+- disanto é sobrenome perdido da família.
 
 ## 🦉 Princípio pessoal
 
